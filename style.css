@@ -1,0 +1,15 @@
+.phone {
+  background-image: url("images/phone(1).png");
+  padding: 3px;
+  height: 200px;
+  width: auto;
+  /* background-image: url(images/smile-regular.svg); */
+  opacity: 0.25;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 90% 90%;
+}
+
+* {
+  border: solid red 1px;
+}
